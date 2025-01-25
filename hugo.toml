@@ -1,0 +1,5 @@
+baseURL = 'https://hacklook.com/'
+languageCode = 'en-us'
+title = 'Hacklook'
+theme = 'PaperMod'
+contentDir = "content"
