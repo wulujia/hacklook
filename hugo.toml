@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'Hacklook'
 theme = 'PaperMod'
 contentDir = "content"
+favicon = "favicon.png"
